@@ -1,13 +1,12 @@
 # homebrew-cpdf
 
-> [Homebrew] formula to install [cpdf][] and [Photoshop Lightroom CC 5.7][] on macOS.
+> [Homebrew] formula to install [cpdf][] on macOS.
 
 # Install
 
 ```bash
 $ brew tap oncletom/brew
 $ brew install cpdf
-$ brew install adobe-photoshop-lightroom5
 ```
 
 # cpdf Usage
@@ -28,4 +27,3 @@ If `big.pdf` has 3 pages. It will then create 3 files: `page-01.pdf`, `page-02.p
 
 [Homebrew]: https://homebrew.sh
 [cpdf]: https://www.coherentpdf.com
-[Photoshop Lightroom CC 5.7]: https://helpx.adobe.com/download-install/kb/lightroom-downloads.html
